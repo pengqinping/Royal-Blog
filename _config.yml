@@ -1,7 +1,7 @@
 # Site settings
 title: Royal'blog
 SEOTitle: Royal Blog
-header-img: /Royal-Blog/img/home-bg.jpg
+header-img: /img/home-bg.jpg
 email: pengqinping@gmail.com
 description: ""
 keyword: "Android"
@@ -60,7 +60,7 @@ disqus_username: pengqinping
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "如果写代码都做不好，还能做好什么，生命不息，奋斗不止。"
-sidebar-avatar: /img/avatar-pqp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /Royal-Blog/img/avatar-pqp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
