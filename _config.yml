@@ -5,10 +5,9 @@ header-img: img/home-bg.jpg
 email: pengqinping@gmail.com
 description: ""
 keyword: "Android"
-url: "http://pengqinping.github.io"              # your host, for absolute URL
-baseurl: "http://pengqinping.github.io/Royal-Blog"    # for example, '/blog' if your blog hosted on 'host/blog'
+#url: "http://pengqinping.github.io"              # your host, for absolute URL
+#baseurl: "/Royal-Blog"    # for example, '/blog' if your blog hosted on 'host/blog'
 #BASE_PATH :  http://pengqinping.github.io/Blogs
-
 
 # SNS settings
 RSS: false
