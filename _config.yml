@@ -1,7 +1,7 @@
 # Site settings
 title: Royal'blog
 SEOTitle: Royal Blog
-header-img: img/home-bg.jpg
+header-img: /Royal-Blog/img/home-bg.jpg
 email: pengqinping@gmail.com
 description: ""
 keyword: "Android"
