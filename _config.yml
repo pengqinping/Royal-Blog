@@ -6,7 +6,7 @@ email: pengqinping@gmail.com
 description: ""
 keyword: "Android"
 url: "http://pengqinping.github.io"              # your host, for absolute URL
-baseurl: "/Royal-Blogs"    # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "http://pengqinping.github.io/Royal-Blogs"    # for example, '/blog' if your blog hosted on 'host/blog'
 #BASE_PATH :  http://pengqinping.github.io/Blogs
 
 
