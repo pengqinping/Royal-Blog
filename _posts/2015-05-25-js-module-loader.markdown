@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Example Post with Code Highlight"
+title:      "Js"
 subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
 date:       2015-05-25
 author:     "Hux"
