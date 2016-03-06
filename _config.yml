@@ -5,9 +5,13 @@ header-img: /img/home-bg.jpg
 email: pengqinping@gmail.com
 description: ""
 keyword: "Android"
-url: "http://pengqinping.github.io"              # your host, for absolute URL
-baseurl: "/Royal-Blog"    # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://pengqinping.github.io/Royal-Blog"              # your host, for absolute URL
+baseurl: ""    # for example, '/blog' if your blog hosted on 'host/blog'
 #BASE_PATH :  http://pengqinping.github.io/Blogs
+
+#local server
+port: 4000
+host: localhost
 
 # SNS settings
 RSS: false
@@ -60,7 +64,7 @@ disqus_username: pengqinping
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "如果写代码都做不好，还能做好什么，生命不息，奋斗不止。"
-sidebar-avatar: /Royal-Blog/img/avatar-pqp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-pqp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
