@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Android LeakCanary"
-subtitle:   "支持文字颜色半边显示"
+subtitle:   "内存泄露分析利器"
 date:       2016-03-10
 author:     "Royal"
 header-img: "img/post-bg-leakcanary.jpg"
