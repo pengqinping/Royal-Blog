@@ -80,6 +80,10 @@ friends: [
         title: "Hux Blog",
         href: "http://huangxuan.me"
     }
+    ,{
+          title: "Foo",
+          href: "http://www.trinea.cn/"
+     }
 #    ,{
 #         title: "Foo",
 #         href: "#"
