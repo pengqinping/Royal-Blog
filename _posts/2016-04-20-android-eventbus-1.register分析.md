@@ -1,4 +1,6 @@
 ---
+---
+---
 layout:     post
 title:      "Android.EventBus[源码分析]"
 subtitle:   "EventBus发送普通消息的流程"
