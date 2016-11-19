@@ -4,7 +4,7 @@ title:      "RxJava&RxAndroid"
 subtitle:   ""
 date:       2016-03-27
 author:     "Royal"
-header-img: "img/post-bg-normal1.jpg"
+header-img: "#98BE47"
 tags:
     - Android
     - RxJava&Android

@@ -4,7 +4,7 @@ title:      "Welcome to Royal Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
 author:     "Royal"
-header-img: "img/post-bg-2015.jpg"
+header-color: "#333333"
 tags:
     - 生活
 ---

@@ -4,7 +4,7 @@ title:      "Android.EventBus[源码分析]"
 subtitle:   "EventBus发送普通消息的流程"
 date:       2016-04-20
 author:     "Royal"
-header-img: "img/post-bg-normal1.jpg"
+header-img: "#98BE47"
 tags:
     - Android
     - EventBus

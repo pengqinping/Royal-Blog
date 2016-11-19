@@ -4,7 +4,7 @@ title:      "态度"
 subtitle:   "态度决定成败,认识自我摆正态度"
 date:       2016-03-06
 author:     "Royal"
-header-img: "img/post-bg-life-manners.jpg"
+header-img: "#82B550"
 tags:
     - life
     - 感想

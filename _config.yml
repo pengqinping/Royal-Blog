@@ -1,10 +1,10 @@
 # Site settings
-title: Royal'blog
+title: Royal Blog
 SEOTitle: Royal Blog
-header-img: /img/home-bg.jpg
+header-color: "#82B550"
 email: pengqinping@gmail.com
-description: ""
-keyword: "Android"
+description: "A man can be destroyed but not defeated"
+keyword: "Android,iOS,H5,CSS,JavaScript,Html"
 url: "http://pengqinping.github.io/Royal-Blog"              # your host, for absolute URL
 baseurl: "/Royal-Blog"    # for example, '/blog' if your blog hosted on 'host/blog'
 #BASE_PATH :  http://pengqinping.github.io/Blogs
@@ -81,7 +81,7 @@ friends: [
         href: "http://huangxuan.me"
     }
     ,{
-          title: "Foo",
+          title: "Trinea",
           href: "http://www.trinea.cn/"
      }
 #    ,{

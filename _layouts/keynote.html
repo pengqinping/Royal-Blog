@@ -65,7 +65,7 @@ layout: default
                 <div class="ds-share"
                     style="text-align: right"
                     data-thread-key="{{page.id}}" data-title="{{page.title}}"
-                    data-images="{{ site.url }}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
+                    data-images="{{ site.url }}{{site.baseurl}}/{% if page.header-color %}{{ page.header-color }}{% else %}{{ site.header-color }}{% endif %}"
                     data-content="{{ content | strip_html | truncate:80 }} | Hux Blog，@Hux黄玄 的个人博客"
                     data-url="{{site.url}}{{site.baseurl}}{{page.url}}">
                     <div class="ds-share-inline">

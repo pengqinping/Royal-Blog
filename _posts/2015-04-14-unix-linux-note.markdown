@@ -4,7 +4,7 @@ title:      "Unix Linux "
 subtitle:   "不适合人类阅读，非常水的自我笔记"
 date:       2015-04-14
 author:     "Hux"
-header-img: "img/post-bg-unix-linux.jpg"
+header-color: "#C6C6C6"
 tags:
     - OS
     - Unix
