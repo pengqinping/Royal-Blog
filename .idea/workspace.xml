@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e272c9e6-6e72-4b89-92d7-3ad6391ebcad" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md" afterPath="$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md" afterPath="$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md" />
     </list>
     <ignored path="Royal-Blog.iws" />
@@ -46,8 +47,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="312">
-                <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <first_editor relative-caret-position="-840">
+                <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-11-19-grunt.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-11-19-grunt.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-11-19-grunt.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
@@ -80,6 +81,22 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="366">
                 <caret line="100" column="113" selection-start-line="100" selection-start-column="113" selection-end-line="100" selection-end-column="113" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-03-27-RxJava&amp;RxAndroid资料.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="312">
+                <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -139,22 +156,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-03-06-git-概要.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-03-06-git-概要.md">
-          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="144">
-                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2016-04-20-android-eventbus-1.register分析.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-04-20-android-eventbus-1.register分析.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
@@ -200,12 +201,12 @@
         <option value="$PROJECT_DIR$/_posts/2016-03-06-git-概要.md" />
         <option value="$PROJECT_DIR$/_posts/2016-03-10-android-fork-project-LeakCanary.md" />
         <option value="$PROJECT_DIR$/_posts/2016-03-08-android-view-download-progress-with-text.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md" />
         <option value="$PROJECT_DIR$/_posts/2016-05-11-ios.1第一个程序.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-20-android-eventbus-1.register分析.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-19-softwaremac.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-19-grunt.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md" />
       </list>
     </option>
   </component>
@@ -217,8 +218,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="95" />
-    <option name="y" value="23" />
+    <option name="x" value="483" />
+    <option name="y" value="170" />
     <option name="width" value="1222" />
     <option name="height" value="738" />
   </component>
@@ -361,15 +362,15 @@
       <workItem from="1462972765135" duration="274000" />
       <workItem from="1479545221207" duration="3375000" />
       <workItem from="1479549326216" duration="1287000" />
-      <workItem from="1479550635089" duration="6995000" />
+      <workItem from="1479550635089" duration="7466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11931000" />
+    <option name="totallyTimeSpent" value="12402000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="23" width="1222" height="738" extended-state="0" />
+    <frame x="483" y="170" width="1222" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782324" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -684,28 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-03-10-android-fork-project-LeakCanary.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -776,43 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-20-android-eventbus-1.register分析.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-6299">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
-            <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-711">
@@ -865,6 +807,65 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="366">
             <caret line="100" column="113" selection-start-line="100" selection-start-column="113" selection-end-line="100" selection-end-column="113" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-19-butterknife840-.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-840">
+            <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-20-android-eventbus-1.register分析.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-6299">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="168">
+            <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-27-RxJava&amp;RxAndroid资料.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />

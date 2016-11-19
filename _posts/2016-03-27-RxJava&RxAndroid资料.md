@@ -7,7 +7,8 @@ author:     "Royal"
 header-color: "#98BE47"
 tags:
     - Android
-    - RxJava&Android
+    - RxJava
+    - RxAndroid
     - fork Project
 ---
 123123
