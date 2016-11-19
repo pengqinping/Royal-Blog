@@ -4,7 +4,7 @@ title:      "Android LeakCanary"
 subtitle:   "内存泄露分析利器"
 date:       2016-03-10
 author:     "Royal"
-header-img: "#98BE47"
+header-color: "#98BE47"
 tags:
     - Android
     - LeakCanary

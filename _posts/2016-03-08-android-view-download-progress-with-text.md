@@ -4,7 +4,7 @@ title:      "Android 自定义进度条"
 subtitle:   "支持文字颜色半边显示"
 date:       2016-03-08
 author:     "Royal"
-header-img: "#98BE47"
+header-color: "#98BE47"
 tags:
     - Android
     - view

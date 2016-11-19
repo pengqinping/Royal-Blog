@@ -4,7 +4,7 @@ title:      "旅游"
 subtitle:   "海边的风"
 date:       2016-03-06
 author:     "Royal"
-header-img: "#82B550"
+header-color: "#82B550"
 tags:
     - life
     - travel
